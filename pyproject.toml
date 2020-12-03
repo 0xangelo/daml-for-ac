@@ -8,6 +8,7 @@ authors = ["Ângelo Lovatto <angelolovatto@gmail.com>"]
 python = "^3.8"
 raylab = "^0.14.17"
 gym = "^0.17.3"
+wandb = "^0.10.11"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
